@@ -3,16 +3,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Titobiloluwa Adeniji`
+- **CCID:** `titobilo`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- https://www.youtube.com/watch?v=hDBawW_Yqho (Create an onClick Event for Buttons | How to create an onClickListener for buttons in Android Studio)
+- https://www.youtube.com/watch?v=V0AETAjxqLI (How to get user input in Android Studio)
+- https://stackoverflow.com/questions/23740972/android-listview-item-setselected-cannot-keep-it-highlighted-when-showing-cont
+- https://stackoverflow.com/questions/21945907/android-arrange-buttons-in-a-row
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+`N/A`
